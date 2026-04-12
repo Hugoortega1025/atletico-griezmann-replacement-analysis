@@ -1,5 +1,5 @@
 # Atlético Madrid — Griezmann Replacement Analysis
-Football Recruitment Analytics | Cosine Similarity | Percentile Profiling 
+### Football Recruitment Analytics | Cosine Similarity | Percentile Profiling 
 
 ---
 
