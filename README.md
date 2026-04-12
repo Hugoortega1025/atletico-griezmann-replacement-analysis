@@ -15,6 +15,10 @@ Using cosine similarity modeling and percentile profiling across 2,854 players f
 
 **Key Finding:** No single player is a perfect like-for-like replacement. Griezmann's balanced profile across chance creation, goal threat, ball progression, and defensive contribution is rare. However, the analysis surfaces four candidates worth serious recruitment consideration.
 
+**[View Full Deliverable (PDF)](Griezmann_Replacement_Deliverable.pdf)**
+
+> All supporting visualisations — composite radars, scatter plots, and candidate comparisons — are included in the full deliverable linked above.
+
 **Final Recommendations:**
 - **Alex Baena** — highest chance creation profile of any candidate (KP/90 at 99.8th percentile), already at Atlético, currently misused positionally. Give him the opportunity before spending in the market.
 - **Lee Kang-in** — closest statistical match to Griezmann in the dataset, genuine transfer links already in place
